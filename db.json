@@ -1,9 +1,9 @@
 [
   {
   "Chave": "CAESA1",
-  "FabricanteDoComponenteDoItem": "CAESA",
+  "FabricanteDoComponenteDoItem": "TESTE",
   "FatorDeDesconto": 1,
-  "CustoBrutoReais": 62100.00,
+  "CustoBrutoReais": 100.00,
   "CustoBrutoPorcentagem": 0.16,
   "DescontoNegociado":0,
   "NovoFatorDeDesconto": 1
@@ -12,9 +12,9 @@
 
 {
   "Chave": "SECUCONTROL1",
-  "FabricanteDoComponenteDoItem": "SECUCONTROL1",
+  "FabricanteDoComponenteDoItem": "TESTE1",
   "FatorDeDesconto": 1,
-  "CustoBrutoReais": 34281.01,
+  "CustoBrutoReais": 200.01,
   "CustoBrutoPorcentagem": 0.09,
   "DescontoNegociado": 0,
   "NovoFatorDeDesconto": 1

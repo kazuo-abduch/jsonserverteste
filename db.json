@@ -1,0 +1,249 @@
+[
+    {
+        "NCM": "8537.10.90",
+        "Finalidade da mercadoria": "Venda Direta",
+        "Estado de Faturamento": "AC",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.17
+    },
+    {
+        "TABELA CALCULADORA DE IMPOSTOS": "Tipo de Venda",
+        "__EMPTY": "Venda Direta",
+        "__EMPTY_2": "Estado de Faturamento",
+        "__EMPTY_4": "PR",
+        "NCM": "8537.20.90",
+        "Finalidade da mercadoria": "Consumidor final/Ñ Contribuinte de ICMS",
+        "Estado de Faturamento": "AL",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "TABELA CALCULADORA DE IMPOSTOS": "PIS (%)",
+        "__EMPTY": 0.0165,
+        "__EMPTY_1": "COFINS (%)",
+        "__EMPTY_2": 0.076,
+        "__EMPTY_3": "Tem REIDI?",
+        "__EMPTY_4": "NÃO",
+        "NCM": "SIM",
+        "Finalidade da mercadoria": "Industrialização",
+        "Estado de Faturamento": "AM",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "TABELA CALCULADORA DE IMPOSTOS": "ICMS (%)",
+        "__EMPTY": 0.12,
+        "__EMPTY_1": "ISS (%)",
+        "__EMPTY_2": 0.05,
+        "__EMPTY_3": "Co-habilita no REIDI?",
+        "__EMPTY_4": "NÃO",
+        "NCM": "NÃO",
+        "Finalidade da mercadoria": "Serviço",
+        "Estado de Faturamento": "AP",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "TABELA CALCULADORA DE IMPOSTOS": "IPI (%)",
+        "__EMPTY": 0.15,
+        "NCM": "CIF",
+        "Estado de Faturamento": "BA",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "TABELA CALCULADORA DE IMPOSTOS": "NCM",
+        "__EMPTY": "8537.10.90",
+        "NCM": "FOB",
+        "Estado de Faturamento": "CE",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "TABELA CALCULADORA DE IMPOSTOS": "Total de impostos",
+        "__EMPTY": 0.4125,
+        "Estado de Faturamento": "DF",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "TABELA CALCULADORA DE IMPOSTOS": "FRETE",
+        "__EMPTY": "CIF",
+        "__EMPTY_1": "Local Entrega",
+        "Estado de Faturamento": "ES",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.17
+    },
+    {
+        "TABELA CALCULADORA DE IMPOSTOS": "Eventos de Medição",
+        "Estado de Faturamento": "GO",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.17
+    },
+    {
+        "Estado de Faturamento": "MA",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "Estado de Faturamento": "MT",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.17
+    },
+    {
+        "Estado de Faturamento": "MS",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.17
+    },
+    {
+        "Estado de Faturamento": "MG",
+        "ICMS (%)": 0.12,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "Estado de Faturamento": "PA",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.17
+    },
+    {
+        "Estado de Faturamento": "PB",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "Estado de Faturamento": "PR",
+        "ICMS (%)": 0.12,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "__EMPTY": "Pagamentos 28 dias após o Evento de Medição",
+        "Estado de Faturamento": "PE",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "Estado de Faturamento": "PI",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "Estado de Faturamento": "RN",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "Estado de Faturamento": "RS",
+        "ICMS (%)": 0.12,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "Estado de Faturamento": "RJ",
+        "ICMS (%)": 0.12,
+        "ICMS cheio (%)": 0.2
+    },
+    {
+        "Estado de Faturamento": "RO",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.175
+    },
+    {
+        "Estado de Faturamento": "RR",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.17
+    },
+    {
+        "Estado de Faturamento": "SC",
+        "ICMS (%)": 0.12,
+        "ICMS cheio (%)": 0.17
+    },
+    {
+        "Estado de Faturamento": "SP",
+        "ICMS (%)": 0.12,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "Estado de Faturamento": "SE",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "Estado de Faturamento": "TO",
+        "ICMS (%)": 0.07,
+        "ICMS cheio (%)": 0.18
+    },
+    {
+        "Estado de Faturamento": "Simples",
+        "ICMS (%)": 0.0186
+    },
+    {
+        "Estado de Faturamento": "Serviço",
+        "ICMS (%)": 0
+    },
+    {
+        "__EMPTY_9": "MVA ajustada=",
+        "__EMPTY_10": "((1+MVA ST original)*(1 - Alq inte)/(1-Alq intra))-1"
+    },
+    {
+        "__EMPTY_9": 0.3843902439024389
+    },
+    {
+        "NCM": 0.1,
+        "Finalidade da mercadoria": "Do valor total da planilha de preços com a emissão da nota de débito (ND), após assinatura do contrato\r\n\r\n"
+    },
+    {
+        "NCM": 0.1,
+        "Finalidade da mercadoria": "Do valor total apresentado na emissão do Workstatement"
+    },
+    {
+        "NCM": 0.1,
+        "Finalidade da mercadoria": "Do valor total apresentado na planilha de preços com a emissão do projeto construtivo/funcional/lógico do painel;\r\n"
+    },
+    {
+        "NCM": 0.1,
+        "Finalidade da mercadoria": "Do valor total apresentado na planilha de preços com a aprovação do projeto construtivo/funcional/lógico do painel;\r\n"
+    },
+    {
+        "NCM": 0.1,
+        "Finalidade da mercadoria": "Do valor total apresentado na planilha de preços no início da montagem dos painéis;"
+    },
+    {
+        "NCM": 0.1,
+        "Finalidade da mercadoria": "Do valor total apresentado na planilha de preços com a convocação do TAF;"
+    },
+    {
+        "NCM": 0.2,
+        "Finalidade da mercadoria": "Do valor total apresentado na planilha de preços com a finalização do TAF;"
+    },
+    {
+        "NCM": 0.1,
+        "Finalidade da mercadoria": "Do valor total apresentado na planilha de preços com a mobilização para o TAC"
+    },
+    {
+        "NCM": 0.05,
+        "Finalidade da mercadoria": "Do valor total apresentado na planilha de preços com a finalização do TAC"
+    },
+    {
+        "NCM": 0.05,
+        "Finalidade da mercadoria": "Do valor total apresentado na planilha de preços com a Emissão do As Built"
+    },
+    {
+        "NCM": 0.15,
+        "Finalidade da mercadoria": "Do valor total da planilha de preços com a emissão da nota de débito (ND),  após assinatura do contrato"
+    },
+    {
+        "NCM": 0.15,
+        "Finalidade da mercadoria": "Do valor total da planilha de preços com a emissão do projeto construtivo"
+    },
+    {
+        "NCM": 0.3,
+        "Finalidade da mercadoria": "Do valor total da planilha de preços com a chegada da chaparia"
+    },
+    {
+        "NCM": 0.2,
+        "Finalidade da mercadoria": "Do valor total da planilha de preços com a convocação para o TAF"
+    },
+    {
+        "NCM": 0.2,
+        "Finalidade da mercadoria": "Do valor total da planilha de preços com a finalização do TAF"
+    }
+]

@@ -1,33 +1,25 @@
+
 [
-    {
-        "NCM": "8537.10.90",
-        "Finalidade da mercadoria": "Venda Direta",
-        "Estado de Faturamento": "AC",
-        "ICMS (%)": 0.07,
-        "ICMS cheio (%)": 0.17
-    },
-    {
-        "TABELA CALCULADORA DE IMPOSTOS": "Tipo de Venda",
-        "__EMPTY": "Venda Direta",
-        "__EMPTY_2": "Estado de Faturamento",
-        "__EMPTY_4": "PR",
-        "NCM": "8537.20.90",
-        "Finalidade da mercadoria": "Consumidor final/Ñ Contribuinte de ICMS",
-        "Estado de Faturamento": "AL",
-        "ICMS (%)": 0.07,
-        "ICMS cheio (%)": 0.18
-    },
-    {
-        "TABELA CALCULADORA DE IMPOSTOS": "PIS (%)",
-        "__EMPTY": 0.0165,
-        "__EMPTY_1": "COFINS (%)",
-        "__EMPTY_2": 0.076,
-        "__EMPTY_3": "Tem REIDI?",
-        "__EMPTY_4": "NÃO",
-        "NCM": "SIM",
-        "Finalidade da mercadoria": "Industrialização",
-        "Estado de Faturamento": "AM",
-        "ICMS (%)": 0.07,
-        "ICMS cheio (%)": 0.18
-    }    
+  {
+  "Chave": "CAESA1",
+  "FabricanteDoComponenteDoItem": "CAESA",
+  "FatorDeDesconto": 1,
+  "CustoBrutoReais": 62100.00,
+  "CustoBrutoPorcentagem": 0.16,
+  "DescontoNegociado":0,
+  "NovoFatorDeDesconto": 1
+  
+},
+
+{
+  "Chave": "SECUCONTROL1",
+  "FabricanteDoComponenteDoItem": "SECUCONTROL1",
+  "FatorDeDesconto": 1,
+  "CustoBrutoReais": 34281.01,
+  "CustoBrutoPorcentagem": 0.09,
+  "DescontoNegociado": 0,
+  "NovoFatorDeDesconto": 1
+  
+}
+
 ]
